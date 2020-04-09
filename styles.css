@@ -69,3 +69,7 @@ h1 {
   clear: both;
   display: table;
 }
+
+.text-white {
+  text-decoration-color: #F8F8FF;
+}
