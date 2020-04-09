@@ -69,3 +69,7 @@ h1 {
   clear: both;
   display: table;
 }
+
+.boxed {
+  border: 3px solid black;
+}
